@@ -35,3 +35,4 @@ Learn to Program
 The Python Handbook
 pycodestyle
 0x00 : Hello, World.
+0x01: if/else, loop functions.
