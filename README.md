@@ -38,3 +38,4 @@ pycodestyle
 0x01 : if/else, loop functions.
 0x02 : import modules
 0x04 : Data Structure: Set, Disctionary 
+0x17 : Doubly linked lists
