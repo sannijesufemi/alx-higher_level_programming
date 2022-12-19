@@ -39,4 +39,6 @@ pycodestyle
 0x02 : import modules
 0x03 : python-data_structures
 0x04 : Data Structure: Set, Disctionary 
+0x05 : Python - Exceptions
 0x17 : Doubly linked lists
+
