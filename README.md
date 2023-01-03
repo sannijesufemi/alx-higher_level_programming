@@ -42,5 +42,7 @@ pycodestyle
 0x05 : Python - Exceptions
 0x06 : Python - Classes and Objects
 0x07 : Python - Test-driven development
+0x09 : Python - Everything is object
 0x17 : Doubly linked lists
+
 
